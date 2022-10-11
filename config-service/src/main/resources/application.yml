@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/DamianSformo/dh-pi
+          uri: https://github.com/DamianSformo/config-backend-microservicios
           default-label: main
 
